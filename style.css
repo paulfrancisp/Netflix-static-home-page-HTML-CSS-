@@ -190,6 +190,9 @@ font-size: 13px;
     font-weight: 400;
     margin-bottom: 30px;
 }
+.footer .column{
+    display: flex;
+}
 .footer .col{
     flex-basis: 25%;
     flex-grow: 1;
